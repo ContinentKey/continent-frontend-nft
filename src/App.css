@@ -1,0 +1,34 @@
+.background {
+    background: url(./img/background.svg) no-repeat center center fixed;
+    background-size: cover;
+    min-height: 100vh;
+  }
+  
+  .new-CKNFT-background {
+    background: url(./img/background.svg) no-repeat center center fixed !important;
+    background-size: cover;
+    width: 100%;
+  }
+  
+  .shizuru {
+    font-family: "Shizuru", cursive;
+    font-size: 3rem;
+  }
+  
+  .indie-flower {
+    font-family: "Indie Flower", cursive;
+  }
+  
+  .custom-word-wrap {
+    word-wrap: break-word;
+  }
+  
+  .logo {
+    width: 100px;
+  }
+  
+  .custom-position-chain-warning {
+    position: fixed;
+    width: 100%;
+    z-index: 100000;
+  }
